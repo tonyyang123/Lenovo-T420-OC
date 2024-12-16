@@ -1,5 +1,8 @@
 Lenovo T420 installs hackintosh<br />
 
+_**2024.12.16**_:<br />
+Updated OC 1.0.3 and some kexts. still have hibernation problem<br />
+
 _**2024.10.29**_:<br />
 Updated OC 1.0.2 and some kexts. support sequoia, but there is a problem with hibernate, sometimes it cannot be woken up.<br />
 
