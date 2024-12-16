@@ -1,7 +1,7 @@
 Lenovo T420 installs hackintosh<br />
 
 _**2024.10.29**_:<br />
-Updated OC 1.0.2 and some kexts. It may support sequoia, but my T420 is not around so I can't test it.<br />
+Updated OC 1.0.2 and some kexts. support sequoia, but there is a problem with hibernate, sometimes it cannot be woken up.<br />
 
 _**2024.5.11**_:<br />
 OC 1.0.0 and supports ventura and sonoma. Lower system versions have not been tested and may be supported.<br />
